@@ -1,11 +1,16 @@
 body {
+    font-size: 10px;
     font-family: 'Nova Mono', sans-serif;
     background: #1b2632;
     background-image: radial-gradient(#466A97 3%, transparent 4%), radial-gradient(#466A97 3%, transparent 4%);
     background-size: 15px 15px;
-    color: #c9eaf9;
+    color: #c3eaff;
 }
 
+.highlight {
+    color: #c9eaf9;
+}
 .outline {
+    padding: 4px;
     border: 1px solid #c9eaf9;
 }
